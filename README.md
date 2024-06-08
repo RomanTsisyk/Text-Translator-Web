@@ -20,7 +20,7 @@ This is a simple webpage for translating text using the Google Cloud Translation
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-repository/text-translator-webpage.git
+git clone https://github.com/RomanTsisyk/text-translator-webpage.git
 cd text-translator-webpage
 ```
 
@@ -198,4 +198,3 @@ async function translateText() {
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-# Text-Translator-Web
